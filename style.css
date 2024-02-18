@@ -6,7 +6,7 @@
   --envelope-cover: #e6cfa7;
   --shadow-color: rgba(0, 0, 0, 0.2);
   --txt-color: #444;
-  --heart-color: #ff3333;
+  --heart-color: 	rgb(236, 19, 19);
 }
 body{
   margin: 0;
