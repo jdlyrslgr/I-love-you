@@ -1,6 +1,6 @@
 :root{
   --primary: #fff;
-  --bg-color: #b3ffb3;
+  --bg-color: rgb(179, 255, 179);
   --bg-envelope-color: #f5edd1;
   --envelope-tab: #ecdeb8;
   --envelope-cover: #e6cfa7;
